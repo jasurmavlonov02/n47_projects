@@ -1,0 +1,38 @@
+{
+    "1": {
+        "username": "John Doe",
+        "password": "admin123",
+        "user_id": "1",
+        "email": "john@gmail.com",
+        "language": "ru",
+        "is_active": false,
+        "created_at": "2024-10-24"
+    },
+    "2": {
+        "username": "Jake",
+        "password": "123",
+        "user_id": "2",
+        "email": "jake@gmail.com",
+        "language": "en",
+        "is_active": true,
+        "created_at": "2024-10-30"
+    },
+    "101": {
+        "username": "Anna",
+        "password": "123Qwe!@#",
+        "user_id": "101",
+        "email": null,
+        "language": "en",
+        "is_active": false,
+        "created_at": "2024-05-15 17:47:13.094988"
+    },
+    "1715778471630907100": {
+        "username": "Jake",
+        "password": "123!@#",
+        "user_id": "1715778471630907100",
+        "email": null,
+        "language": "en",
+        "is_active": false,
+        "created_at": "2024-05-15 18:07:51.630907"
+    }
+}
